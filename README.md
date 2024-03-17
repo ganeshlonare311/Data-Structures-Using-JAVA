@@ -10,12 +10,11 @@ I am currently in my second year of pursuing a Bachelor's degree in Electronics 
 Residing in Sanjivani, Kopargaon, I am fortunate to be surrounded by an enriching academic atmosphere and access to state-of-the-art facilities at my institution.
 
 ## Interests and Skills
-- **Programming:** Proficient in Java, with a keen interest in exploring other programming languages and technologies.
-- **Electronics:** Well-versed in electronic circuit design and analysis, with hands-on experience in hardware prototyping.
+- **Programming:** Proficient in Java and Web Development, with a keen interest in exploring other programming languages and technologies.
 - **Computer Engineering:** Enthusiastic about software development, algorithm design, and system architecture.
 
 ## Contact Information
-Feel free to reach out to me via email at [ganesh.lonare@example.com](mailto:ganesh.lonare@example.com) for any professional inquiries or collaboration opportunities.
+Feel free to reach out to me via email at [ganeshlonare311@gmail.com](mailto:ganeshlonare311@gmail.com) for any professional inquiries or collaboration opportunities.
 
 I am eager to connect with fellow professionals, explore new opportunities, and contribute to meaningful projects in the field of technology and engineering.
 
